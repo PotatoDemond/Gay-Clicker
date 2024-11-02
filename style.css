@@ -1,0 +1,12 @@
+body{
+  background-color: white;
+  font-family: 'Courier New', 'Courier Prime', Courier, 
+    }
+header{
+  padding: 5px;
+  /* main color theme*/
+  background-color: rgb(255, 255, 255);
+  font-family: 'Courier Prime', 'comic sans ms';
+  color: white;
+  margine: 0px;
+  
